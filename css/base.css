@@ -17,6 +17,11 @@
   @styleset { ss01: 1; ss02: 2; ss03: 3; ss04: 4; ss05: 5 } 
 }
 
+html, body {
+	overflow-x: hidden;
+	width: 100vw;
+}
+
 :root {
 	font-size: 14px;
 	--color-text: #fff;
@@ -34,7 +39,6 @@ body {
 	font-family: 'Tenon', sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-	overflow-x: hidden;
 }
 
 /* Page Loader */

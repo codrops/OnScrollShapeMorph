@@ -1,12 +1,12 @@
-# On-Scroll SVG Filter Effect
+# On-Scroll Shape Morph
 
-Combining GSAP's Scroll Trigger and Flip with a SVG Filter, based on a demo by Fabio Ottaviani.
+A demo of a on-scroll shape morph animations with an interactive tilt effect.
 
-![On-Scroll SVG Filter Effects](https://tympanus.net/codrops/wp-content/uploads/2023/07/onscrollfilter_feat-1.jpg)
+![On-Scroll Shape Morph](https://tympanus.net/codrops/wp-content/uploads/2023/11/ShapeMorph-1.jpg)
 
-[Article on Codrops](https://tympanus.net/codrops/?p=72802)
+[Article on Codrops](https://tympanus.net/codrops/?p=74333)
 
-[Demo](http://tympanus.net/Development/OnScrollFilter/)
+[Demo](http://tympanus.net/Development/OnScrollShapeMorph/)
 
 ## Installation
 
